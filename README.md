@@ -9,4 +9,4 @@ Este repositorio contiene prácticas iniciales de programación como parte de mi
 - Visual Studio Code
 
 ## Autor
-Carlos
+Roberto Carlos Reyes Lara
